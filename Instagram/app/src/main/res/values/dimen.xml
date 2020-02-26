@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--story-->
+    <dimen name="story">54dp</dimen>
+    <dimen name="story_font_size">12sp</dimen>
+    <dimen name="addstory">18dp</dimen>
+    <!--story-->
+
+    <!--header-->
+    <dimen name="feed_header_height">50dp</dimen>
+    <dimen name="feed_header_padding">8dp</dimen>
+    <dimen name="place">10sp</dimen>
+    <!--header-->
+
+    <!--feed-->
+    <dimen name="postMenu">20dp</dimen>
+    <dimen name="actionFeed">24dp</dimen>
+    <dimen name="timeposted">10sp</dimen>
+    <dimen name="emot">12dp</dimen>
+    <!--feed-->
+
+    <!--comment-->
+    <dimen name="commentLay">42dp</dimen>
+    <dimen name="allcomment">14sp</dimen>
+    <dimen name="feed_comment_profile">48dp</dimen>
+    <dimen name="postLike">25dp</dimen>
+    <!--comment-->
+
+    <dimen name="first_keyline">16dp</dimen>
+    <dimen name="second_keyline">72dp</dimen>
+    <dimen name="toolbar_horizontal_padding">4dp</dimen>
+</resources>
